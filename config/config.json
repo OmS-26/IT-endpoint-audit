@@ -1,0 +1,26 @@
+{
+  "_comment": "Thresholds and OS lifecycle dates used by the audit. Lifecycle dates are from Microsoft's Lifecycle Policy pages; check https://learn.microsoft.com/lifecycle and update when new versions ship. 25H2 dates follow Microsoft's standard 24-month (Home/Pro) and 36-month (Enterprise/Education) servicing windows.",
+
+  "thresholds": {
+    "disk_free_pct_critical": 5,
+    "disk_free_pct_warning": 15,
+    "min_ram_gb": 8,
+    "stale_after_days": 30,
+    "warranty_warning_days": 90,
+    "os_eos_warning_days": 180
+  },
+
+  "os_end_of_servicing": {
+    "Windows 10": {
+      "22H2": { "Home/Pro": "2025-10-14", "Enterprise/Education": "2025-10-14" }
+    },
+    "Windows 11": {
+      "22H2": { "Home/Pro": "2024-10-08", "Enterprise/Education": "2025-10-14" },
+      "23H2": { "Home/Pro": "2025-11-11", "Enterprise/Education": "2026-11-10" },
+      "24H2": { "Home/Pro": "2026-10-13", "Enterprise/Education": "2027-10-12" },
+      "25H2": { "Home/Pro": "2027-10-12", "Enterprise/Education": "2028-10-10" }
+    }
+  },
+
+  "macos_min_supported_major": 14
+}

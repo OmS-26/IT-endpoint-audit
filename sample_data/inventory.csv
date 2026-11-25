@@ -1,0 +1,151 @@
+hostname,assigned_user,department,model,os_name,os_version,os_edition,ram_gb,disk_total_gb,disk_free_gb,last_seen,warranty_end
+TOR-WS-0001,sam.wilson,IT,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,8,512,228,2026-11-25,2027-05-23
+TOR-MAC-0002,riley.martin,Investments,"MacBookAir10,1",macOS,15.7,,16,256,50,2026-11-19,2028-09-20
+TOR-WS-0003,jamie.patel,Operations,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,512,263,2026-11-24,2028-05-05
+TOR-WS-0004,,Investments,HP EliteBook 840 G9,Windows 11,23H2,Enterprise,16,512,177,2026-11-15,2027-05-16
+TOR-WS-0005,sam.smith,Operations,HP EliteDesk 800 G6,Windows 10,22H2,Enterprise,16,512,218,2026-11-25,2028-03-22
+TOR-WS-0006,quinn.nguyen,HR,HP ProBook 450 G10,Windows 11,24H2,Professional,16,512,128,2026-11-22,2026-12-19
+TOR-WS-0007,reese.brown,Legal,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,8,512,314,2026-11-24,2027-05-29
+TOR-WS-0008,jordan.singh,IT,HP EliteBook 840 G9,Windows 11,23H2,Enterprise,16,256,89,2026-11-13,2026-11-05
+TOR-WS-0009,parker.tremblay,Finance,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,8,1024,420,2026-10-02,2026-09-23
+TOR-WS-0010,drew.khan,Asset Mgmt,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,32,512,194,2026-11-24,2028-12-04
+TOR-WS-0011,casey.martin,HR,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,512,91,2026-11-18,2028-04-09
+TOR-WS-0012,devon.martin,Finance,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,4,512,236,2026-11-23,2028-06-18
+TOR-WS-0013,taylor.brown,Asset Mgmt,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,8,512,151,2026-11-13,2027-09-10
+TOR-WS-0014,rowan.martin,Investments,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,32,256,116,2026-11-20,2027-01-20
+TOR-WS-0015,morgan.tremblay,Asset Mgmt,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,1024,170,2026-08-07,2027-02-15
+TOR-WS-0016,riley.smith,Operations,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,8,512,393,2026-11-25,2028-08-23
+TOR-WS-0017,emerson.lee,Legal,HP ProBook 450 G10,Windows 11,24H2,Professional,16,512,137,2026-11-23,2026-06-19
+TOR-WS-0018,hayden.singh,Investments,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,32,1024,154,2026-11-25,2025-11-28
+TOR-WS-0019,emerson.brown,Operations,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,256,79,2026-11-23,2026-04-20
+TOR-WS-0020,drew.patel,HR,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,172,2026-11-25,2029-01-19
+TOR-WS-0021,devon.nguyen,HR,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,8,256,42,2026-11-25,2029-03-17
+TOR-WS-0022,emerson.tremblay,Operations,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,99,2026-11-23,2029-08-19
+TOR-MAC-0023,avery.lee,Legal,"MacBookPro16,1",macOS,13.7,,16,512,306,2026-11-23,2025-12-11
+TOR-WS-0024,avery.patel,HR,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,8,512,333,2026-11-14,2026-03-06
+TOR-WS-0025,riley.khan,Operations,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,33,2026-11-12,2028-04-07
+TOR-WS-0026,taylor.lee,Asset Mgmt,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,63,2026-11-23,2028-05-10
+TOR-MAC-0027,jordan.nguyen,Finance,"MacBookAir10,1",macOS,15.7,,8,512,131,2026-11-21,2027-06-20
+TOR-WS-0028,casey.nguyen,Operations,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,512,284,2026-11-22,2028-02-03
+TOR-MAC-0029,emerson.brown,HR,"MacBookAir10,1",macOS,15.7,,16,512,194,2026-09-03,
+TOR-WS-0030,morgan.tremblay,IT,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,256,121,2026-11-25,2026-10-08
+TOR-WS-0031,emerson.wilson,Finance,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,32,512,51,2026-11-22,2026-11-25
+TOR-MAC-0032,jamie.singh,Operations,"MacBookPro18,3",macOS,26.1,,8,512,146,2026-10-19,2026-03-23
+TOR-WS-0033,skyler.singh,IT,HP EliteBook 840 G9,Windows 11,23H2,Enterprise,8,256,111,2026-11-24,2028-08-01
+TOR-WS-0034,morgan.smith,Asset Mgmt,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,8,256,37,2026-11-20,2028-01-11
+TOR-WS-0035,sam.singh,Finance,HP EliteBook 840 G9,Windows 11,23H2,Enterprise,16,512,167,2026-11-25,2026-08-28
+TOR-WS-0036,emerson.khan,Investments,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,1024,82,2026-11-24,2027-09-20
+TOR-MAC-0037,alex.martin,Data Science,"MacBookPro18,3",macOS,26.1,,32,1024,377,2026-11-24,2029-01-21
+TOR-MAC-0038,quinn.nguyen,HR,"MacBookPro18,3",macOS,26.1,,4,256,91,2026-11-25,2029-03-01
+TOR-WS-0039,sam.smith,IT,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,512,38,2026-11-17,2026-08-18
+TOR-WS-0040,avery.lee,HR,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,205,2026-11-24,2028-04-20
+TOR-WS-0041,skyler.lee,Legal,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,169,2026-11-23,2027-11-14
+TOR-WS-0042,drew.smith,Asset Mgmt,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,256,31,2026-11-20,2028-07-22
+TOR-WS-0043,rowan.singh,Asset Mgmt,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,8,512,261,2026-11-24,2029-08-12
+TOR-MAC-0044,skyler.patel,Finance,"MacBookPro18,3",macOS,26.1,,8,1024,570,2026-11-20,2026-02-08
+TOR-WS-0045,quinn.wilson,HR,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,256,44,2026-11-21,2029-02-08
+TOR-WS-0046,jamie.smith,IT,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,256,70,2026-11-24,2026-10-14
+TOR-WS-0047,,Data Science,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,1024,95,2026-11-24,2026-12-21
+TOR-WS-0048,jamie.khan,Operations,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,8,256,71,2026-11-24,2028-08-24
+TOR-WS-0049,morgan.lee,Finance,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,76,2026-11-25,2029-08-08
+TOR-WS-0050,parker.martin,Asset Mgmt,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,8,512,93,2026-11-25,
+TOR-WS-0051,rowan.patel,Finance,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,512,219,2026-11-20,2028-01-02
+TOR-WS-0052,jordan.khan,HR,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,1024,462,2026-11-25,2029-07-16
+TOR-WS-0053,,Investments,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,8,512,82,2026-11-15,2028-01-25
+TOR-WS-0054,morgan.tremblay,HR,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,1024,472,2026-11-19,2028-01-13
+TOR-WS-0055,rowan.patel,Investments,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,256,56,2026-11-23,2026-09-06
+TOR-WS-0056,quinn.khan,Operations,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,1024,497,2026-11-22,2026-01-04
+TOR-WS-0057,jamie.wilson,HR,HP EliteBook 840 G9,Windows 11,23H2,Enterprise,16,512,142,2026-11-25,2029-05-16
+TOR-WS-0058,jordan.brown,HR,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,32,256,181,2026-11-25,2028-02-02
+TOR-WS-0059,riley.khan,Finance,HP EliteDesk 800 G6,Windows 10,22H2,Enterprise,16,1024,411,2026-11-25,2027-10-30
+TOR-WS-0060,sam.lee,Investments,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,256,57,2026-11-25,2026-12-15
+TOR-WS-0061,parker.lee,IT,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,8,256,61,2026-11-23,2029-06-12
+TOR-WS-0062,casey.nguyen,Finance,HP ProBook 450 G10,Windows 11,24H2,Professional,8,512,126,2026-11-22,2027-09-10
+TOR-WS-0063,sam.patel,IT,HP ProBook 450 G10,Windows 11,24H2,Professional,16,1024,519,2026-11-24,2026-10-24
+TOR-MAC-0064,casey.brown,IT,"MacBookAir10,1",macOS,15.7,,16,512,85,2026-11-22,2026-03-02
+TOR-WS-0065,hayden.smith,Data Science,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,8,512,228,2026-11-11,2028-08-27
+TOR-WS-0066,,Asset Mgmt,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,118,2026-11-23,2028-09-24
+TOR-WS-0067,jordan.smith,Legal,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,8,1024,231,2026-11-24,2027-04-04
+TOR-WS-0068,taylor.brown,Legal,HP ProBook 450 G10,Windows 11,24H2,Professional,4,256,142,2026-11-18,2026-04-17
+TOR-MAC-0069,avery.singh,Legal,"MacBookAir10,1",macOS,15.7,,16,512,107,2026-11-24,2027-12-02
+TOR-WS-0070,reese.nguyen,Operations,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,8,512,148,2026-11-21,2028-03-05
+TOR-WS-0071,morgan.martin,Data Science,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,196,2026-11-24,2027-08-18
+TOR-WS-0072,jordan.brown,Legal,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,256,92,2026-11-15,2027-12-25
+TOR-WS-0073,morgan.brown,Data Science,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,209,2026-11-24,2026-06-18
+TOR-WS-0074,jordan.wilson,Data Science,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,512,61,2026-11-24,2028-04-02
+TOR-WS-0075,taylor.smith,HR,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,8,1024,184,2026-11-24,2029-05-29
+TOR-WS-0076,rowan.singh,Investments,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,1024,176,2026-11-20,2029-09-12
+TOR-WS-0077,avery.wilson,IT,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,256,67,2026-11-14,2028-04-04
+TOR-MAC-0078,riley.nguyen,Data Science,"MacBookAir10,1",macOS,15.7,,8,512,111,2026-09-18,2028-05-30
+TOR-WS-0079,alex.lee,HR,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,1024,294,2026-11-23,2026-10-05
+TOR-WS-0080,jordan.patel,Finance,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,8,256,104,2026-11-21,2029-07-24
+TOR-WS-0081,,Investments,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,32,256,81,2026-11-25,2029-07-18
+TOR-WS-0082,quinn.smith,Data Science,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,32,256,152,2026-11-24,2027-10-08
+TOR-WS-0083,jordan.wilson,HR,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,1024,69,2026-11-20,2027-10-16
+TOR-WS-0084,emerson.khan,Legal,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,247,2026-11-25,2026-12-18
+TOR-WS-0085,parker.patel,IT,HP EliteBook 840 G9,Windows 11,23H2,Enterprise,32,1024,652,2026-11-22,2029-02-23
+TOR-WS-0086,jordan.martin,Data Science,HP EliteBook 840 G9,Windows 11,23H2,Enterprise,16,1024,440,2026-11-23,2026-10-03
+TOR-WS-0087,avery.khan,Legal,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,327,2026-11-23,2028-05-26
+TOR-WS-0088,reese.nguyen,Legal,HP EliteBook 840 G9,Windows 11,23H2,Enterprise,16,512,180,2026-11-25,2026-01-17
+TOR-WS-0089,emerson.khan,Asset Mgmt,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,8,512,226,2026-11-25,2027-04-15
+TOR-WS-0090,jamie.nguyen,Investments,HP EliteBook 840 G9,Windows 11,23H2,Enterprise,16,256,69,2026-11-23,2028-06-14
+TOR-WS-0091,casey.martin,Finance,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,256,63,2026-11-25,2027-06-10
+TOR-MAC-0092,riley.singh,Finance,"MacBookAir10,1",macOS,15.7,,16,256,145,2026-11-24,2026-07-07
+TOR-WS-0093,avery.lee,IT,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,8,1024,309,2026-11-22,2026-02-28
+TOR-MAC-0094,casey.nguyen,Investments,"MacBookPro18,3",macOS,26.1,,32,512,139,2026-11-11,2027-07-16
+TOR-WS-0095,devon.martin,HR,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,239,2026-11-20,2026-02-03
+TOR-WS-0096,rowan.tremblay,Investments,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,1024,480,2026-11-21,2027-12-09
+TOR-MAC-0097,alex.brown,Investments,"MacBookPro18,3",macOS,26.1,,16,1024,827,2026-11-18,2026-03-09
+TOR-WS-0098,sam.wilson,Operations,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,8,512,133,2026-11-22,2026-04-29
+TOR-WS-0099,skyler.nguyen,Asset Mgmt,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,8,1024,165,2026-11-23,2026-08-11
+TOR-WS-0100,sam.nguyen,Data Science,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,256,154,2026-11-23,
+TOR-WS-0101,parker.martin,Asset Mgmt,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,111,2026-11-25,2029-03-16
+TOR-MAC-0102,avery.wilson,Data Science,"MacBookPro18,3",macOS,26.1,,4,512,215,2026-11-18,2027-06-22
+TOR-WS-0103,reese.wilson,Finance,HP ProBook 450 G10,Windows 11,24H2,Professional,16,512,149,2026-11-03,2027-07-02
+TOR-WS-0104,sam.brown,Finance,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,1024,495,2026-11-22,2026-03-22
+TOR-WS-0105,hayden.khan,Operations,HP ProBook 450 G10,Windows 11,24H2,Professional,8,256,75,2026-11-25,2028-12-15
+TOR-WS-0106,alex.lee,Legal,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,256,140,2026-11-21,2027-06-20
+TOR-WS-0107,alex.khan,HR,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,1024,581,2026-11-25,2029-01-20
+TOR-MAC-0108,avery.smith,Finance,"MacBookPro18,3",macOS,26.1,,8,512,240,2026-11-22,
+TOR-WS-0109,skyler.singh,Legal,HP EliteBook 840 G9,Windows 11,23H2,Enterprise,8,256,117,2026-11-22,2027-12-18
+TOR-WS-0110,avery.smith,Data Science,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,32,512,148,2026-11-19,2026-07-23
+TOR-WS-0111,jamie.singh,Operations,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,512,161,2026-11-21,2026-05-12
+TOR-WS-0112,hayden.singh,Data Science,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,512,268,2026-11-22,2028-03-14
+TOR-WS-0113,alex.lee,Asset Mgmt,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,1024,549,2026-11-25,2028-04-22
+TOR-WS-0114,riley.brown,Investments,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,8,256,180,2026-11-23,2026-06-07
+TOR-WS-0115,skyler.patel,Legal,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,512,122,2026-11-24,2029-02-20
+TOR-WS-0116,skyler.tremblay,Legal,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,256,192,2026-11-25,2028-03-01
+TOR-WS-0117,reese.patel,Investments,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,512,71,2026-11-23,2029-05-17
+TOR-WS-0118,jordan.wilson,Finance,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,32,1024,449,2026-11-25,2028-04-19
+TOR-WS-0119,taylor.singh,Data Science,HP ProBook 450 G10,Windows 11,24H2,Professional,16,1024,735,2026-11-24,2026-06-02
+TOR-WS-0120,casey.brown,Investments,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,32,1024,322,2026-07-22,2028-08-22
+TOR-WS-0121,skyler.wilson,Legal,HP EliteDesk 800 G6,Windows 10,22H2,Enterprise,16,512,96,2026-11-24,2029-06-01
+TOR-WS-0122,emerson.smith,HR,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,174,2026-11-16,2029-02-04
+TOR-WS-0123,alex.singh,Data Science,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,512,172,2026-11-25,2028-02-02
+TOR-WS-0124,sam.patel,Asset Mgmt,HP ProBook 450 G10,Windows 11,24H2,Professional,16,512,270,2026-11-20,2028-10-01
+TOR-WS-0125,parker.martin,Operations,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,32,512,72,2026-11-20,2029-06-04
+TOR-WS-0126,,Data Science,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,256,58,2026-11-22,2027-09-05
+TOR-WS-0127,jordan.khan,Investments,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,4,1024,612,2026-11-17,2026-07-03
+TOR-WS-0128,,HR,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,284,2026-11-24,2029-07-26
+TOR-WS-0129,emerson.khan,Investments,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,8,1024,185,2026-11-25,2029-01-16
+TOR-WS-0130,emerson.smith,IT,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,4,512,107,2026-11-24,2027-05-18
+TOR-WS-0131,jordan.martin,Legal,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,4,1024,450,2026-11-16,2027-06-28
+TOR-WS-0132,skyler.smith,Finance,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,8,1024,477,2026-11-24,2027-05-18
+TOR-WS-0133,emerson.khan,Investments,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,512,118,2026-11-24,2028-10-19
+TOR-WS-0134,jamie.lee,HR,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,256,71,2026-11-24,2027-03-10
+TOR-MAC-0135,reese.smith,Data Science,"MacBookPro18,3",macOS,26.1,,8,512,136,2026-11-23,2027-08-03
+TOR-WS-0136,parker.patel,HR,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,4,512,81,2026-11-25,2027-07-24
+TOR-MAC-0137,devon.khan,Legal,"MacBookPro18,3",macOS,26.1,,16,1024,523,2026-11-19,2026-10-31
+TOR-WS-0138,skyler.singh,Operations,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,256,104,2026-11-17,2026-05-01
+TOR-WS-0139,jamie.patel,Data Science,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,1024,258,2026-11-19,2027-04-17
+TOR-WS-0140,rowan.wilson,IT,HP EliteDesk 800 G6,Windows 10,22H2,Enterprise,16,512,101,2026-11-15,2027-12-26
+TOR-WS-0141,morgan.brown,IT,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,512,85,2026-11-23,2026-02-05
+TOR-WS-0142,taylor.khan,Data Science,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,32,512,72,2026-11-25,2027-12-29
+TOR-WS-0143,jordan.lee,Finance,HP EliteDesk 800 G6,Windows 10,22H2,Enterprise,16,1024,131,2026-11-22,2026-03-13
+TOR-WS-0144,taylor.nguyen,Legal,HP EliteBook 840 G9,Windows 11,23H2,Enterprise,16,256,124,2026-11-25,2028-08-15
+TOR-WS-0145,drew.nguyen,HR,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,256,171,2026-11-25,2029-08-31
+TOR-WS-0146,jordan.singh,Finance,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,256,23,2026-11-25,2028-07-02
+TOR-WS-0147,sam.brown,IT,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,512,308,2026-11-13,2026-12-16
+TOR-WS-0148,,Operations,HP EliteBook 840 G10,Windows 11,24H2,Enterprise,16,1024,372,2026-11-24,2028-09-08
+TOR-WS-0149,drew.nguyen,HR,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,1024,389,2026-11-23,2028-03-03
+TOR-WS-0150,riley.khan,Asset Mgmt,HP EliteBook 840 G11,Windows 11,25H2,Enterprise,16,512,259,2026-11-25,2027-06-19
